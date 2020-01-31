@@ -1,6 +1,6 @@
 # linux-lab
 
-###_Notes of linux shell scripting lab_
+### __Notes of linux shell scripting lab__
 * To clone the repo use command:
   ```shell script
     ~$ git clone https://github.com/Ghost-kaze/linux-lab.git 
